@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application.Impl\\CardRegistration.Application.Impl.csproj": {}
+  },
+  "projects": {
+    "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application.Impl\\CardRegistration.Application.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application.Impl\\CardRegistration.Application.Impl.csproj",
+        "projectName": "CardRegistration.Application.Impl",
+        "projectPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application.Impl\\CardRegistration.Application.Impl.csproj",
+        "packagesPath": "C:\\Users\\fabio.brabec\\.nuget\\packages\\",
+        "outputPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio.brabec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application\\CardRegistration.Application.csproj": {
+                "projectPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application\\CardRegistration.Application.csproj"
+              },
+              "C:\\assessment\\CashlessMicroservice\\CardRegistration.Infrastructure.Common\\CardRegistration.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Infrastructure.Common\\CardRegistration.Infrastructure.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application\\CardRegistration.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application\\CardRegistration.Application.csproj",
+        "projectName": "CardRegistration.Application",
+        "projectPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application\\CardRegistration.Application.csproj",
+        "packagesPath": "C:\\Users\\fabio.brabec\\.nuget\\packages\\",
+        "outputPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio.brabec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\assessment\\CashlessMicroservice\\CardRegistration.Domain\\CardRegistration.Domain.csproj": {
+                "projectPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Domain\\CardRegistration.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\assessment\\CashlessMicroservice\\CardRegistration.Domain\\CardRegistration.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Domain\\CardRegistration.Domain.csproj",
+        "projectName": "CardRegistration.Domain",
+        "projectPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Domain\\CardRegistration.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabio.brabec\\.nuget\\packages\\",
+        "outputPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio.brabec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\assessment\\CashlessMicroservice\\CardRegistration.Infrastructure.Common\\CardRegistration.Infrastructure.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Infrastructure.Common\\CardRegistration.Infrastructure.Common.csproj",
+        "projectName": "CardRegistration.Infrastructure.Common",
+        "projectPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Infrastructure.Common\\CardRegistration.Infrastructure.Common.csproj",
+        "packagesPath": "C:\\Users\\fabio.brabec\\.nuget\\packages\\",
+        "outputPath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Infrastructure.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fabio.brabec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

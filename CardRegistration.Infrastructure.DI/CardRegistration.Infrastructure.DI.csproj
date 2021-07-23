@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.8" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CardRegistration.Application.Impl\CardRegistration.Application.Impl.csproj" />
+    <ProjectReference Include="..\CardRegistration.Application\CardRegistration.Application.csproj" />
+    <ProjectReference Include="..\CardRegistration.Domain\CardRegistration.Domain.csproj" />
+    <ProjectReference Include="..\CardRegistration.Infrastructure.InMemory\CardRegistration.Infrastructure.InMemory.csproj" />
+  </ItemGroup>
+
+</Project>

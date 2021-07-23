@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CardRegistration.Infrastructure.Common</name>
+    </assembly>
+    <members>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_E001">
+            <summary>
+            Request is null or empty
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_E002">
+            <summary>
+            Internal error
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V001">
+            <summary>
+            Card Number exceeded the limit of 16 characters
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V002">
+            <summary>
+            CVV exceeded the limit of 5 characters
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V003">
+            <summary>
+            CustomerId is required
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V004">
+            <summary>
+            Card Number is required
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V005">
+            <summary>
+            CVV is required
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V006">
+            <summary>
+            CardId is required
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V007">
+            <summary>
+            Token is required
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V008">
+            <summary>
+            Token expired
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V009">
+            <summary>
+            Customer informed is different from the customer registered in the card
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V010">
+            <summary>
+            Token already registered
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V011">
+            <summary>
+            Invalid token
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V012">
+            <summary>
+            Could not find any registration with the CVV number informed
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V013">
+            <summary>
+            Card Number must have at least 4 characters
+            </summary>
+        </member>
+        <member name="F:CardRegistration.Infrastructure.Common.Constants.Message.Code.CARD_V014">
+            <summary>
+            Card not found
+            </summary>
+        </member>
+    </members>
+</doc>

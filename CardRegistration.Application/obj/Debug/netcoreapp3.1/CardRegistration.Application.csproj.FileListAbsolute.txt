@@ -1,0 +1,12 @@
+C:\assessment\CashlessMicroservice\CardRegistration.Application\bin\Debug\netcoreapp3.1\CardRegistration.Application.deps.json
+C:\assessment\CashlessMicroservice\CardRegistration.Application\bin\Debug\netcoreapp3.1\CardRegistration.Application.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Application\bin\Debug\netcoreapp3.1\CardRegistration.Application.pdb
+C:\assessment\CashlessMicroservice\CardRegistration.Application\bin\Debug\netcoreapp3.1\CardRegistration.Domain.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Application\bin\Debug\netcoreapp3.1\CardRegistration.Domain.pdb
+C:\assessment\CashlessMicroservice\CardRegistration.Application\obj\Debug\netcoreapp3.1\CardRegistration.Application.csprojAssemblyReference.cache
+C:\assessment\CashlessMicroservice\CardRegistration.Application\obj\Debug\netcoreapp3.1\CardRegistration.Application.AssemblyInfoInputs.cache
+C:\assessment\CashlessMicroservice\CardRegistration.Application\obj\Debug\netcoreapp3.1\CardRegistration.Application.AssemblyInfo.cs
+C:\assessment\CashlessMicroservice\CardRegistration.Application\obj\Debug\netcoreapp3.1\CardRegistration.Application.csproj.CoreCompileInputs.cache
+C:\assessment\CashlessMicroservice\CardRegistration.Application\obj\Debug\netcoreapp3.1\CardRegistration.Application.csproj.CopyComplete
+C:\assessment\CashlessMicroservice\CardRegistration.Application\obj\Debug\netcoreapp3.1\CardRegistration.Application.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Application\obj\Debug\netcoreapp3.1\CardRegistration.Application.pdb

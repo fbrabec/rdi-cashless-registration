@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CardRegistration.Host.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:CardRegistration.Host.WebApi.Controllers.CardController.Register(CardRegistration.Application.Messages.RegisterCardRequest)">
+            <summary>
+            Register a customer card and generates a token
+            </summary>
+            <param name="request">Customer card data</param>
+            <returns>Token generated</returns>
+        </member>
+        <member name="M:CardRegistration.Host.WebApi.Controllers.CardController.ValidateToken(System.Int32,System.Int32,System.Int64,System.Int32)">
+            <summary>
+            Validate token and customer data
+            </summary>
+            <param name="cardId">Card Id</param>
+            <param name="customerId">Customer Id</param>
+            <param name="cvv">CVV</param>
+            <param name="token">Token</param>
+            <returns>Boolean indicating whether the token is valid or not</returns>
+        </member>
+    </members>
+</doc>

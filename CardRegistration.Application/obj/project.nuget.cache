@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYGNEv2s1+JuT1ZfOoAlQgQJfKNMrkmnKjsvFNvB1/OyuDMepfVak1WPVb+6xrh5kcWsyrbxjZgd6gFZ2ZfolA==",
+  "success": true,
+  "projectFilePath": "C:\\assessment\\CashlessMicroservice\\CardRegistration.Application\\CardRegistration.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio.brabec\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\fabio.brabec\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\fabio.brabec\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

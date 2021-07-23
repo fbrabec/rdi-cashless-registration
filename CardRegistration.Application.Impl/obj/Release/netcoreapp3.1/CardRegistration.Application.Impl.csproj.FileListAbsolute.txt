@@ -1,0 +1,16 @@
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Application.Impl.deps.json
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Application.Impl.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Application.Impl.pdb
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Application.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Domain.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Infrastructure.Common.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Application.pdb
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Infrastructure.Common.pdb
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\bin\Release\netcoreapp3.1\CardRegistration.Domain.pdb
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\obj\Release\netcoreapp3.1\CardRegistration.Application.Impl.csprojAssemblyReference.cache
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\obj\Release\netcoreapp3.1\CardRegistration.Application.Impl.AssemblyInfoInputs.cache
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\obj\Release\netcoreapp3.1\CardRegistration.Application.Impl.AssemblyInfo.cs
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\obj\Release\netcoreapp3.1\CardRegistration.Application.Impl.csproj.CoreCompileInputs.cache
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\obj\Release\netcoreapp3.1\CardRegistration.Application.Impl.csproj.CopyComplete
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\obj\Release\netcoreapp3.1\CardRegistration.Application.Impl.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Application.Impl\obj\Release\netcoreapp3.1\CardRegistration.Application.Impl.pdb

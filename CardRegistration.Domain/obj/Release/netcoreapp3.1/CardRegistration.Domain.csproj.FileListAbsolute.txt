@@ -1,0 +1,8 @@
+C:\assessment\CashlessMicroservice\CardRegistration.Domain\bin\Release\netcoreapp3.1\CardRegistration.Domain.deps.json
+C:\assessment\CashlessMicroservice\CardRegistration.Domain\bin\Release\netcoreapp3.1\CardRegistration.Domain.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Domain\bin\Release\netcoreapp3.1\CardRegistration.Domain.pdb
+C:\assessment\CashlessMicroservice\CardRegistration.Domain\obj\Release\netcoreapp3.1\CardRegistration.Domain.AssemblyInfoInputs.cache
+C:\assessment\CashlessMicroservice\CardRegistration.Domain\obj\Release\netcoreapp3.1\CardRegistration.Domain.AssemblyInfo.cs
+C:\assessment\CashlessMicroservice\CardRegistration.Domain\obj\Release\netcoreapp3.1\CardRegistration.Domain.csproj.CoreCompileInputs.cache
+C:\assessment\CashlessMicroservice\CardRegistration.Domain\obj\Release\netcoreapp3.1\CardRegistration.Domain.dll
+C:\assessment\CashlessMicroservice\CardRegistration.Domain\obj\Release\netcoreapp3.1\CardRegistration.Domain.pdb
